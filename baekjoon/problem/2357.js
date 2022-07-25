@@ -1,37 +1,108 @@
-const readline = require("readline");
+const fs = require("fs");
+let input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
+const nums = [];
+const INT_MAX = 1000000001;
+const INT_MIN = 0;
 
-let input = [];
-let N = 0;
-let M = 0;
+const [n, m] = input[0]
+  .trim()
+  .split(" ")
+  .map((acc) => acc);
 
-rl.on("line", function (line) {
-  input.push(line);
-  N = Number(input[0].split(" ")[0]);
-  M = Number(input[0].split(" ")[1]);
-  if (N + M === input.length - 1) {
-    rl.close();
-  }
-}).on("close", function () {
-  let Ns = input.slice(1, N + 1);
-  let Ms = input.slice(N + 1);
-  let answer = [[]];
-  let slicedArr = [];
+for (let i = 1; i <= n; i++) {
+  nums.push(input[i]);
+}
 
-  for (let i = 0; i < M; i++) {
-    slicedArr = Ns.slice(
-      Number(Ms[i].split(" ")[0]) - 1,
-      Number(Ms[i].split(" ")[1])
-    ).map((el) => Number(el));
-
-    answer.push(Math.min(...slicedArr));
-    answer.push(Math.max(...slicedArr));
+function initMin(tree, node, start, end) {
+  if (start === end) {
+    tree[node].min = nums[start];
+    return tree[node].min;
   }
 
-  console.log(answer);
-  process.exit();
-});
+  const mid = Math.floor((start + end) / 2);
+  tree[node].min = Math.min(
+    initMin(tree, 2 * node, start, mid),
+    initMin(tree, 2 * node + 1, mid + 1, end)
+  );
+
+  return tree[node].min;
+}
+
+function initMax(tree, node, start, end) {
+  if (start === end) {
+    tree[node].max = nums[start];
+    return tree[node].max;
+  }
+
+  const mid = Math.floor((start + end) / 2);
+  tree[node].max = Math.max(
+    initMax(tree, 2 * node, start, mid),
+    initMax(tree, 2 * node + 1, mid + 1, end)
+  );
+
+  return tree[node].max;
+}
+
+function findMin(tree, node, start, end, left, right) {
+  if (end < left || start > right) {
+    return INT_MAX;
+  }
+  if (left <= start && end <= right) {
+    return tree[node].min;
+  }
+
+  const mid = Math.floor((start + end) / 2);
+  return Math.min(
+    findMin(tree, 2 * node, start, mid, left, right),
+    findMin(tree, 2 * node + 1, mid + 1, end, left, right)
+  );
+}
+
+function findMax(tree, node, start, end, left, right) {
+  if (end < left || start > right) {
+    return INT_MIN;
+  }
+  if (left <= start && end <= right) {
+    return tree[node].max;
+  }
+
+  const mid = Math.floor((start + end) / 2);
+  return Math.max(
+    findMax(tree, 2 * node, start, mid, left, right),
+    findMax(tree, 2 * node + 1, mid + 1, end, left, right)
+  );
+}
+
+function init() {
+  let result = "";
+
+  const height = Math.ceil(Math.log2(n));
+  const treeSize = 1 << (1 + height);
+
+  const tree = Array.from(new Array(treeSize), () => {
+    return {
+      min: Infinity,
+      max: -Infinity,
+    };
+  });
+
+  initMin(tree, 1, 1, n);
+  initMax(tree, 1, 1, n);
+
+  for (let i = n + 1; i <= n + m; i++) {
+    const [left, right] = input[i].split(" ").map((x) => +x);
+    result += `${findMin(tree, 1, 1, n, left, right)} ${findMax(
+      tree,
+      1,
+      1,
+      n,
+      left,
+      right
+    )}\n`;
+  }
+
+  console.log(result.trim());
+}
+
+init();
