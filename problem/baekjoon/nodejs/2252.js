@@ -10,6 +10,7 @@ let input = [];
 rl.on("line", function (line) {
   input.push(line);
 
+  // N : 학생의 수, M : 비교한 횟수
   [N, M] = input[0].split(" ").map((el) => {
     return Number(el);
   });
@@ -27,38 +28,42 @@ rl.on("line", function (line) {
     });
   }
 
-  // 2차원 graph 초기화
-  let graph = Array.from(Array(N), () => new Array(N).fill(0));
+  let graph = Array(N + 1).fill([]); // [[], [], [], [], []]
+  let inDegree = Array(N + 1).fill(0); // [0, 0, 0, 0, 0]
 
-  // 간선 연결된거 1로 설정
-  for (let i = 0; i < M; i++) {
-    graph[compare[i][0] - 1][compare[i][1] - 1] = 1;
+  for (let i = 0; i < compare.length; i++) {
+    inDegree[compare[i][1]]++;
+    graph[compare[i][0]] = compare[i][1];
+  }
+  // [ [], [], [], 1, 2 ] [ 0, 1, 1, 0, 0 ]
+
+  let answer = [];
+  let queue = [];
+
+  for (let i = 1; i < inDegree.length; i++) {
+    if (inDegree[i] === 0) {
+      queue.push(i);
+
+      inDegree[i] = -1;
+    }
   }
 
-  // 스택
-  let stack = [];
+  while (queue.length > 0) {
+    let temp = queue.shift();
+    answer.push(temp);
 
-  // 출력
-  let answer = [];
+    inDegree[graph[temp]]--;
 
-  // 첫 스택에 들어갈 학생 구하기
-  for (let i = 0; i < N; i++) {
-    let start = false;
+    for (let i = 1; i < inDegree.length; i++) {
+      if (inDegree[i] === 0) {
+        queue.push(i);
 
-    for (let j = 0; j < N; j++) {
-      if (graph[j][i] === 1) {
-        start = true;
+        inDegree[i] = -1;
       }
     }
-
-    if (!start) {
-      stack.push(i + 1);
-    }
   }
 
-  // 학생들 줄 세우기
-  answer.push(stack[0]);
-
   console.log(answer);
+
   process.exit();
 });
