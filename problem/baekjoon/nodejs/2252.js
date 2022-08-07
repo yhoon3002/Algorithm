@@ -28,14 +28,18 @@ rl.on("line", function (line) {
     });
   }
 
-  let graph = Array(N + 1).fill([]); // [[], [], [], [], []]
-  let inDegree = Array(N + 1).fill(0); // [0, 0, 0, 0, 0]
+  // graph 초기화
+  let graph = new Array();
+  for (let i = 0; i <= N; i++) {
+    graph.push(new Array());
+  }
+
+  let inDegree = Array(N + 1).fill(0);
 
   for (let i = 0; i < compare.length; i++) {
     inDegree[compare[i][1]]++;
-    graph[compare[i][0]] = compare[i][1];
+    graph[compare[i][0]].push(compare[i][1]);
   }
-  // [ [], [], [], 1, 2 ] [ 0, 1, 1, 0, 0 ]
 
   let answer = [];
   let queue = [];
@@ -52,7 +56,9 @@ rl.on("line", function (line) {
     let temp = queue.shift();
     answer.push(temp);
 
-    inDegree[graph[temp]]--;
+    for (let i = 0; i < graph[temp].length; i++) {
+      inDegree[graph[temp][i]]--;
+    }
 
     for (let i = 1; i < inDegree.length; i++) {
       if (inDegree[i] === 0) {
@@ -63,7 +69,7 @@ rl.on("line", function (line) {
     }
   }
 
-  console.log(answer);
+  console.log(answer.join(" "));
 
   process.exit();
 });
