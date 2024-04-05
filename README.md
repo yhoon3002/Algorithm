@@ -10,9 +10,9 @@ My goal is to solve at least more than one problem a day.
 ### Day_01
 |문제 번호 & 설명|작성한 코드|코드 설명 블로그|
 |:-----:|:---:|:---:|
-|[백준 1427번 - 소트인사이드](https://www.acmicpc.net/problem/1427)|추가중|추가중|
-|[백준 1676번 - 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|추가중|추가중|
-|[백준 11866번 - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|추가중|추가중|
+|[백준 1427번 - 소트인사이드](https://www.acmicpc.net/problem/1427)|추가예정|추가예정|
+|[백준 1676번 - 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|추가예정|추가예정|
+|[백준 11866번 - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|추가예정|추가예정|
 
 
 ### Day_02
