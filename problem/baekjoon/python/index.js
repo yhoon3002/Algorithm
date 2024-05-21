@@ -1,1 +1,0 @@
-// baekjoon - python - initial setting
