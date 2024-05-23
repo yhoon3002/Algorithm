@@ -60,4 +60,5 @@ My goal is to solve at least more than one problem a day.
 |:-----:|:---:|:---:|
 |[백준 10828번 - 스택](https://www.acmicpc.net/problem/10828)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/10828.py)|[Blog](https://hoonni3002.tistory.com/155)|
 |[백준 25497번 - 기술 연계마스터 임스](https://www.acmicpc.net/problem/25497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/25497.py)|진행중|
+|[백준 1874번 - 스택 수열](https://www.acmicpc.net/problem/1874)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1874.py)|진행중|
 
