@@ -65,5 +65,5 @@ My goal is to solve at least more than one problem a day.
 ### 09
 |문제 번호 & 설명|작성한 코드|코드 설명 블로그|
 |:-----:|:---:|:---:|
-|[백준 26042번 - 식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/26042.py)|추가예정|
-|[백준 27497번 - 알파벳 블록](https://www.acmicpc.net/problem/27497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/27497.py)|추가예정|
+|[백준 26042번 - 식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/26042.py)|추가예정|
+|[백준 27497번 - 알파벳 블록](https://www.acmicpc.net/problem/27497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/27497.py)|추가예정|
