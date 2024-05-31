@@ -33,7 +33,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 & 설명|작성한 코드|코드 설명 블로그|
 |:-----:|:---:|:---:|
 |[백준 1057번 - 토너먼트](https://www.acmicpc.net/problem/1057)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1057.js)|[Blog](https://hoonni3002.tistory.com/126)|
-|[백준 1260번 - DFS와 BFS](https://www.acmicpc.net/problem/1260)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1260.js)|미작성|
+|[백준 1260번 - DFS와 BFS](https://www.acmicpc.net/problem/1260)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1260.js)|추가예정|
 
 
 ### 05
@@ -46,7 +46,7 @@ My goal is to solve at least more than one problem a day.
 ### 06
 |문제 번호 & 설명|작성한 코드|코드 설명 블로그|
 |:-----:|:---:|:---:|
-|[백준 2252번 - 줄 세우기](https://www.acmicpc.net/problem/2252)|[진행중](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2252.js)|진행중|
+|[백준 2252번 - 줄 세우기](https://www.acmicpc.net/problem/2252)|[진행중](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2252.js)|추가예정|
 
 
 ### 07
@@ -59,6 +59,11 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 & 설명|작성한 코드|코드 설명 블로그|
 |:-----:|:---:|:---:|
 |[백준 10828번 - 스택](https://www.acmicpc.net/problem/10828)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/10828.py)|[Blog](https://hoonni3002.tistory.com/155)|
-|[백준 25497번 - 기술 연계마스터 임스](https://www.acmicpc.net/problem/25497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/25497.py)|진행중|
-|[백준 1874번 - 스택 수열](https://www.acmicpc.net/problem/1874)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1874.py)|진행중|
+|[백준 25497번 - 기술 연계마스터 임스](https://www.acmicpc.net/problem/25497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/25497.py)|추가예정|
+|[백준 1874번 - 스택 수열](https://www.acmicpc.net/problem/1874)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1874.py)|추가예정|
 
+### 09
+|문제 번호 & 설명|작성한 코드|코드 설명 블로그|
+|:-----:|:---:|:---:|
+|[백준 26042번 - 식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/26042.py)|추가예정|
+|[백준 27497번 - 알파벳 블록](https://www.acmicpc.net/problem/27497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/27497.py)|추가예정|
