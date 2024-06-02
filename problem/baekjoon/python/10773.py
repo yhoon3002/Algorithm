@@ -1,3 +1,4 @@
+# 제로
 def zero():
     _k = int(input())
 
