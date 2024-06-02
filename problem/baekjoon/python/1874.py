@@ -1,3 +1,4 @@
+# 스택 수열
 def stack():
     _n = int(input())
 
