@@ -1,4 +1,5 @@
 // 요세푸스 문제 0
+// 실패했음
 const readline = require("readline");
 
 const rl = readline.createInterface({
