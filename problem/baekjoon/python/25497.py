@@ -1,3 +1,4 @@
+# 기술 연계마스터 임스
 def ims():
     _num = int(input())
     _skill = input()
