@@ -1,3 +1,4 @@
+// 요세푸스 문제 0
 const readline = require("readline");
 
 const rl = readline.createInterface({
