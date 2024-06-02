@@ -1,3 +1,4 @@
+// 세 개의 소수 문제
 const readline = require("readline");
 
 const rl = readline.createInterface({
