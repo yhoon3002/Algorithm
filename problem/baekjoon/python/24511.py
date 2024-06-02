@@ -1,5 +1,5 @@
-# questack
-# 실패
+# queuestack
+# 실패했음
 import sys
 from collections import deque
 
