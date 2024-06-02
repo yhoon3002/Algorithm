@@ -1,3 +1,4 @@
+// 줄 세우기
 const readline = require("readline");
 
 const rl = readline.createInterface({
