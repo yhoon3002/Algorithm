@@ -31,13 +31,13 @@ My goal is to solve at least more than one problem a day.
 ### 수학
 |문제 번호 & 설명|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
-|[백준 1676번 - 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|추가예정|추가예정|
+|[백준 1676번 - 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1676.js)|추가예정|
 
 
 ### 스택 & 큐 & 덱
 |문제 번호 & 설명|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
-|[백준 11866번 - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|추가예정|추가예정|
+|[백준 11866번 - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11866.js)|추가예정|실패|
 |[백준 26042번 - 식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/26042.py)|추가예정|
 |[백준 1874번 - 스택 수열](https://www.acmicpc.net/problem/1874)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1874.py)|추가예정|
 |[백준 10773번 - 제로](https://www.acmicpc.net/problem/10773)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/10773.js) / [Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/10773.py)|[Blog](https://hoonni3002.tistory.com/124)|
@@ -56,13 +56,13 @@ My goal is to solve at least more than one problem a day.
 ### 위상 정렬
 |문제 번호 & 설명|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
-|[백준 2252번 - 줄 세우기](https://www.acmicpc.net/problem/2252)|[진행중](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2252.js)|추가예정|
+|[백준 2252번 - 줄 세우기](https://www.acmicpc.net/problem/2252)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2252.js)|추가예정|
 
 
 ### 정렬
 |문제 번호 & 설명|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
-|[백준 1427번 - 소트인사이드](https://www.acmicpc.net/problem/1427)|추가예정|추가예정|
+|[백준 1427번 - 소트인사이드](https://www.acmicpc.net/problem/1427)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1427.js)|추가예정|
 
 
 ### DFS & BFS
