@@ -1,5 +1,5 @@
 # 수들의 합
-# 실패
+# 실패했음
 import sys
 import math
 
