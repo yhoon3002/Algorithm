@@ -37,10 +37,10 @@ My goal is to solve at least more than one problem a day.
 |:-----:|:---:|:---:|
 |[백준 11866번 - 요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|추가예정|추가예정|
 |[백준 26042번 - 식당 입구 대기 줄](https://www.acmicpc.net/problem/26042)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/26042.py)|추가예정|
+|[백준 1874번 - 스택 수열](https://www.acmicpc.net/problem/1874)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1874.py)|추가예정|
 |[백준 10773번 - 제로](https://www.acmicpc.net/problem/10773)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/10773.js) / [Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/10773.py)|[Blog](https://hoonni3002.tistory.com/124)|
 |[백준 10828번 - 스택](https://www.acmicpc.net/problem/10828)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/10828.py)|[Blog](https://hoonni3002.tistory.com/155)|
 |[백준 25497번 - 기술 연계마스터 임스](https://www.acmicpc.net/problem/25497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/25497.py)|추가예정|
-|[백준 1874번 - 스택 수열](https://www.acmicpc.net/problem/1874)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1874.py)|추가예정|
 |[백준 27497번 - 알파벳 블록](https://www.acmicpc.net/problem/27497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/27497.py)|추가예정|
 
 
