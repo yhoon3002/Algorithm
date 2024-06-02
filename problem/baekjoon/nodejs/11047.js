@@ -1,3 +1,4 @@
+// 동전 0
 const readline = require("readline");
 
 const rl = readline.createInterface({
