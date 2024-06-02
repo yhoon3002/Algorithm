@@ -10,6 +10,7 @@ My goal is to solve at least more than one problem a day.
 ### 그리디 알고리즘
 |문제 번호 & 설명|작성한 코드|코드 설명 블로그|
 |:-----:|:---:|:---:|
+|[백준 1541번 - 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1541.py)|추가예정|
 |[백준 11047번 - 동전 0](https://www.acmicpc.net/problem/11047)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11047.js)|[Blog](https://hoonni3002.tistory.com/125)|
 
 
