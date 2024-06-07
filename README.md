@@ -63,6 +63,8 @@ My goal is to solve at least more than one problem a day.
 |:-----:|:---:|:---:|:---:|
 |[백준 1427번 - 소트인사이드](https://www.acmicpc.net/problem/1427)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1427.js)|추가예정|
 |[백준 11650번 - 좌표정렬하기](https://www.acmicpc.net/problem/11650)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/11650.py)|추가예정|
+|[백준 10867번 - 중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/10867.py)|추가예정|
+|[백준 14469번 - 소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/14469.py)|추가예정|
 
 
 ### DFS & BFS
