@@ -1,23 +1,21 @@
 # 수들의 합
-# 실패했음
 import sys
-import math
 
 
 def sum():
     s = int(sys.stdin.readline())
 
-    total = 0
+    temp = 0
     count = 0
 
-    for i in range(1, int(math.sqrt(s * 2))):
-        total += i
+    while s > 0:
+        temp += 1
 
-        if total <= s:
-            count += 1
-        elif total > s:
-            count -= 1
-            break
+        s -= temp
+        count += 1
+
+    if s < 0:
+        count -= 1
 
     print(count)
 
