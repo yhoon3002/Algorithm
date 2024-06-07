@@ -10,7 +10,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 1541번 - 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1541.py)|추가예정|
-|[백준 1789번 - 수들의 합](https://www.acmicpc.net/problem/1789)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1789.py)|추가예정|실패|
+|[백준 1789번 - 수들의 합](https://www.acmicpc.net/problem/1789)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1789.py)|추가예정||
 |[백준 11047번 - 동전 0](https://www.acmicpc.net/problem/11047)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11047.js)|[Blog](https://hoonni3002.tistory.com/125)|
 
 
