@@ -62,6 +62,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 1427번 - 소트인사이드](https://www.acmicpc.net/problem/1427)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1427.js)|추가예정|
+|[백준 11650번 - 좌표정렬하기](https://www.acmicpc.net/problem/11650)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11650.py)|추가예정|
 
 
 ### DFS & BFS
