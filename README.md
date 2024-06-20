@@ -31,6 +31,9 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 1676번 - 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1676.js)|추가예정|
+|[백준 1978번 - 소수 찾기](https://www.acmicpc.net/problem/1978)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/1978.py)|추가예정|
+|[백준 2581번 - 소수](https://www.acmicpc.net/problem/2581)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/2581.py)|추가예정|
+|[백준 2960번 - 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/2960.py)|추가예정|
 
 
 ### 스택 & 큐 & 덱
