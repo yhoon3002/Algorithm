@@ -14,6 +14,14 @@ My goal is to solve at least more than one problem a day.
 |[백준 11047번 - 동전 0](https://www.acmicpc.net/problem/11047)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11047.js)|[Blog](https://hoonni3002.tistory.com/125)|
 
 
+
+### 그래프 이론
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 2178번 - 미로 탐색](https://www.acmicpc.net/problem/2178)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/2178.py)|추가예정|
+|[백준 24444번 - 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/24444.py)|추가예정|
+
+
 ### 브루트포스 알고리즘
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
