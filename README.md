@@ -49,6 +49,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 2960번 - 에라토스테네스의 체](https://www.acmicpc.net/problem/2960)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/2960.py)|추가예정|
 |[백준 18108번 - 1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/18108.js)|X|
 |[백준 23971번 - ZOAC 4](https://www.acmicpc.net/problem/23971)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/23971.js)|X|
+|[백준 5073번 - 삼각형과 세 변](https://www.acmicpc.net/problem/5073)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/5073.js)|X|
 
 
 ### 스택 & 큐 & 덱
