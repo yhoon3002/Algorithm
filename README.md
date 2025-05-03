@@ -10,6 +10,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 10926번 - ??!](https://www.acmicpc.net/problem/10926)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/10926.js)|X|
+|[백준 1157번 - 단어 공부](https://www.acmicpc.net/problem/1157)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1157.js)|X|
 
 
 ### 그리디 알고리즘
