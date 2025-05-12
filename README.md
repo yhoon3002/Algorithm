@@ -39,7 +39,7 @@ My goal is to solve at least more than one problem a day.
 ### 비트마스킹
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
-|[백준 11723번 - 집합](https://www.acmicpc.net/problem/11723)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11723.js)|[Blog](https://hoonni3002.tistory.com/176)|
+|[백준 11723번 - 집합](https://www.acmicpc.net/problem/11723)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11723.js)|[Blog](https://hoonni3002.tistory.com/176)|Node.js 지원X|
 
 
 ### 배낭 문제
