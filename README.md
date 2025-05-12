@@ -36,6 +36,12 @@ My goal is to solve at least more than one problem a day.
 |[백준 11502번 - 세 개의 소수 문제](https://www.acmicpc.net/problem/11502)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11502.js)|[Blog](https://hoonni3002.tistory.com/128)|
 
 
+### 비트마스킹
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 11723번 - 집합](https://www.acmicpc.net/problem/11723)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11723.js)|[Blog](https://hoonni3002.tistory.com/176)|
+
+
 ### 배낭 문제
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
