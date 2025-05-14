@@ -59,6 +59,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 23971번 - ZOAC 4](https://www.acmicpc.net/problem/23971)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/23971.js)|X|
 |[백준 5073번 - 삼각형과 세 변](https://www.acmicpc.net/problem/5073)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/5073.js)|[Blog](https://hoonni3002.tistory.com/174)|
 |[백준 2292번 - 벌집](https://www.acmicpc.net/problem/2292)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2292.js)|X|
+|[백준 9655번 - 돌 게임](https://www.acmicpc.net/problem/9655)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/9655.js)|X|
 
 
 ### 스택 & 큐 & 덱
