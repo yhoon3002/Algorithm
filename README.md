@@ -95,6 +95,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 10867번 - 중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/10867.py)|X|
 |[백준 14469번 - 소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/14469.py)|X|
 |[백준 10431번 - 줄세우기](https://www.acmicpc.net/problem/10431)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/10431.js)|X|
+|[백준 8979번 - 올림픽](https://www.acmicpc.net/problem/8979)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/8979.js)|X|
 
 
 ### DFS & BFS
