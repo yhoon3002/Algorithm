@@ -34,6 +34,7 @@ My goal is to solve at least more than one problem a day.
 |:-----:|:---:|:---:|:---:|
 |[백준 1057번 - 토너먼트](https://www.acmicpc.net/problem/1057)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1057.js)|[Blog](https://hoonni3002.tistory.com/126)|
 |[백준 11502번 - 세 개의 소수 문제](https://www.acmicpc.net/problem/11502)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11502.js)|[Blog](https://hoonni3002.tistory.com/128)|
+|[백준 7568번 - 덩치](https://www.acmicpc.net/problem/7568)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/7568.js)|X|
 
 
 ### 비트마스킹
