@@ -12,6 +12,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 10926번 - ??!](https://www.acmicpc.net/problem/10926)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/10926.js)|X|
 |[백준 1157번 - 단어 공부](https://www.acmicpc.net/problem/1157)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1157.js)|X|
 |[백준 2816번 - 디지털 티비](https://www.acmicpc.net/problem/2816)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2816.js)|X|
+|[백준 4659번 - 비밀번호 발음하기](https://www.acmicpc.net/problem/4659)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/4659.js)|X|
 
 
 ### 그리디 알고리즘
