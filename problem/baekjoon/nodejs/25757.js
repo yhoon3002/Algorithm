@@ -23,14 +23,12 @@ rl.on("line", function (line) {
     let peopleSet = new Set(arr);
     let answer = 0;
 
-    for (let i = 0; i < arr.length; i++) {
-        if (gameType === "Y") {
-            answer = parseInt(peopleSet.size);
-        } else if (gameType === "F") {
-            answer = parseInt(peopleSet.size / 2);
-        } else {
-            answer = parseInt(peopleSet.size / 3);
-        }
+    if (gameType === "Y") {
+        answer = parseInt(peopleSet.size);
+    } else if (gameType === "F") {
+        answer = parseInt(peopleSet.size / 2);
+    } else {
+        answer = parseInt(peopleSet.size / 3);
     }
 
     console.log(answer);
