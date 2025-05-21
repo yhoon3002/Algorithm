@@ -89,6 +89,12 @@ My goal is to solve at least more than one problem a day.
 |[백준 2252번 - 줄 세우기](https://www.acmicpc.net/problem/2252)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2252.js)|X|
 
 
+### 자료구조
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 25757번 - 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/25757.js)|X|
+
+
 ### 정렬
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
