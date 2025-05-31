@@ -98,6 +98,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 25757번 - 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/25757.js)|X|
+|[백준 2164번 - 카드2](https://www.acmicpc.net/problem/2164)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2164.js)|X|
 
 
 ### 정렬
