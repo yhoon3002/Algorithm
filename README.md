@@ -17,6 +17,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 1205번 - 등수 구하기](https://www.acmicpc.net/problem/1205)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1205.js)|X|
 |[백준 1244번 - 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1244.js)|X|
 |[백준 9017번 - 크로스 컨트리](https://www.acmicpc.net/problem/9017)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/9017.js)|X|
+|[백준 17266번 - 어두운 굴다리](https://www.acmicpc.net/problem/17266)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/17266.js)|X|
 
 
 ### 그리디 알고리즘
