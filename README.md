@@ -89,6 +89,12 @@ My goal is to solve at least more than one problem a day.
 |[백준 2357번 - 최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2357.js)|[Blog](https://hoonni3002.tistory.com/120)|
 
 
+### 이분 탐색
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 2512번 - 예산](https://www.acmicpc.net/problem/2512)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2512.js)|X|
+
+
 ### 위상 정렬
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
