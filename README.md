@@ -83,6 +83,12 @@ My goal is to solve at least more than one problem a day.
 |[백준 27497번 - 알파벳 블록](https://www.acmicpc.net/problem/27497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/27497.py)|X|
 
 
+### 슬라이딩 윈도우
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 21921번 - 블로그](https://www.acmicpc.net/problem/21921)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/21921.js)|X|
+
+
 ### 세그먼트 트리
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
