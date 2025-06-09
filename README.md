@@ -38,6 +38,12 @@ My goal is to solve at least more than one problem a day.
 |[백준 24444번 - 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/24444.py)|X|
 
 
+### 다이나믹 프로그래밍
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 17484번 - 진우의 달 여행(Small)](https://www.acmicpc.net/problem/17484)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/17484.js)|X|
+
+
 ### 브루트포스 알고리즘
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
