@@ -31,6 +31,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 13305번 - 주유소](https://www.acmicpc.net/problem/13305)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/13305.js)|X|
 |[백준 1515번 - 수 이어 쓰기](https://www.acmicpc.net/problem/1515)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1515.js)|X|
 |[백준 19941번 - 햄버거 분배](https://www.acmicpc.net/problem/19941)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/19941.js)|X|
+|[백준 20310번 - 타노스](https://www.acmicpc.net/problem/20310)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/20310.js)|X|
 
 
 ### 그래프 이론
