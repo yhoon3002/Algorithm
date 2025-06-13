@@ -110,6 +110,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 2512번 - 예산](https://www.acmicpc.net/problem/2512)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2512.js)|X|
+|[백준 19637번 - IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19367)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/19367.js)|X|
 
 
 ### 위상 정렬
