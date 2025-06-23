@@ -138,6 +138,12 @@ My goal is to solve at least more than one problem a day.
 |[백준 8979번 - 올림픽](https://www.acmicpc.net/problem/8979)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/8979.js)|X|
 
 
+### 집합과 맵
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 22233번 - 가희와 키워드](https://www.acmicpc.net/problem/22233)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/22233.js)|X|
+
+
 ### DFS & BFS
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
