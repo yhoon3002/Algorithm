@@ -113,6 +113,12 @@ My goal is to solve at least more than one problem a day.
 |[백준 19637번 - IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/19367.js)|X|
 
 
+### 우선순위 큐
+|문제 번호 - 제목|작성한 코드|블로그|비고|
+|:-----:|:---:|:---:|:---:|
+|[백준 1927번 - 최소 힙](https://www.acmicpc.net/problem/1927)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1927.js)|X|
+
+
 ### 위상 정렬
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
