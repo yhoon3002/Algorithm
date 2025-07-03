@@ -94,6 +94,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 24511번 - queuestack](https://www.acmicpc.net/problem/24511)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/24511.py)|추가예정|실패|
 |[백준 25497번 - 기술 연계마스터 임스](https://www.acmicpc.net/problem/25497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/25497.py)|X|
 |[백준 27497번 - 알파벳 블록](https://www.acmicpc.net/problem/27497)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/27497.py)|X|
+|[백준 1406번 - 에디터](https://www.acmicpc.net/problem/1406)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1406.js)|X|
 
 
 ### 슬라이딩 윈도우
