@@ -21,6 +21,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 2607번 - 비슷한 단어](https://www.acmicpc.net/problem/2607)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2607.js)|X|
 |[백준 3758번 - KCPC](https://www.acmicpc.net/problem/3758)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/3758.js)|X|
 |[백준 20006번 - 랭킹전 대기열](https://www.acmicpc.net/problem/20006)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/20006.js)|X|
+|[백준 2304번 - 창고 다각형](https://www.acmicpc.net/problem/2304)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2304.js)|X|
 
 
 ### 그리디 알고리즘
