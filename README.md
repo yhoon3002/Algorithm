@@ -121,6 +121,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 1927번 - 최소 힙](https://www.acmicpc.net/problem/1927)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1927.js)|X|
+|[백준 2075번 - N번째 큰 수](https://www.acmicpc.net/problem/2075)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2075.js)|X|
 
 
 ### 위상 정렬
