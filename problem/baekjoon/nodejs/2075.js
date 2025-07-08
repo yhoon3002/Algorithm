@@ -1,3 +1,4 @@
+// N번째 큰 수
 const readline = require("readline");
 
 const rl = readline.createInterface({
@@ -8,34 +9,50 @@ const rl = readline.createInterface({
 // 입력 줄 수를 계산하기 위한 변수
 let count = -1;
 let N = 0;
-let heap = [];
+let heap = [null];
 
 function calHeap(val) {
     // heap에는 최대 N개의 값만 들어가면 됨
 
-    if (heap.length < N) {
+    if (heap.length <= N) {
         heap.push(val);
 
         // heapify up
-        let index = heap.length - 1;
+        let cur = heap.length - 1;
 
-        while (index > 0) {
-            let parent = Math.floor((index - 1) / 2);
+        while (cur > 1) {
+            let parent = Math.floor(cur / 2);
 
-            if (heap[index] >= heap[parent]) break;
+            if (heap[cur] >= heap[parent]) break;
 
-            let temp = heap[index];
-            heap[index] = heap[parent];
+            let temp = heap[cur];
+            heap[cur] = heap[parent];
             heap[parent] = temp;
 
-            index = parent;
+            cur = parent;
         }
     } else {
-        if (heap[0] >= val) return;
-
-        heap[0] = val;
+        if (val <= heap[1]) return;
+        heap[1] = val;
 
         // heapify down
+        let cur = 1;
+        const len = heap.length;
+
+        while (true) {
+            let left = cur * 2;
+            let right = cur * 2 + 1;
+            let smallest = cur;
+
+            if (left < len && heap[left] < heap[smallest]) smallest = left;
+            if (right < len && heap[right] < heap[smallest]) smallest = right;
+            if (smallest === cur) break;
+
+            let temp = heap[cur];
+            heap[cur] = heap[smallest];
+            heap[smallest] = temp;
+            cur = smallest;
+        }
     }
 }
 
@@ -58,7 +75,7 @@ rl.on("line", function (line) {
         rl.close();
     }
 }).on("close", function () {
-    console.log(heap);
+    console.log(heap[1]);
 
     process.exit();
 });
