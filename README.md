@@ -35,6 +35,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 19941번 - 햄버거 분배](https://www.acmicpc.net/problem/19941)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/19941.js)|X|
 |[백준 20310번 - 타노스](https://www.acmicpc.net/problem/20310)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/20310.js)|X|
 |[백준 11501번 - 주식](https://www.acmicpc.net/problem/11501)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11501.js)|X|
+|[백준 1138번 - 한 줄로 서기](https://www.acmicpc.net/problem/1138)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1138.js)|X|
 
 
 ### 그래프 이론
