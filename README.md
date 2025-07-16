@@ -43,7 +43,7 @@ My goal is to solve at least more than one problem a day.
 |:-----:|:---:|:---:|:---:|
 |[백준 2178번 - 미로 탐색](https://www.acmicpc.net/problem/2178)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/2178.py)|X|
 |[백준 24444번 - 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)|[Code (Python)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/python/24444.py)|X|
-|[백준 14940번 - 쉬운 최단거리](https://www.acmicpc.net/problem/14940)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/14940.py)|X|
+|[백준 14940번 - 쉬운 최단거리](https://www.acmicpc.net/problem/14940)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/14940.js)|X|
 
 
 ### 다이나믹 프로그래밍
