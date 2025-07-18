@@ -33,7 +33,7 @@ My goal is to solve at least more than one problem a day.
 |[백준 13305번 - 주유소](https://www.acmicpc.net/problem/13305)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/13305.js)|X|
 |[백준 1515번 - 수 이어 쓰기](https://www.acmicpc.net/problem/1515)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1515.js)|X|
 |[백준 19941번 - 햄버거 분배](https://www.acmicpc.net/problem/19941)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/19941.js)|X|
-|[백준 20310번 - 타노스](https://www.acmicpc.net/problem/20310)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/20310.js)|X|
+|[백준 20310번 - 타노스](https://www.acmicpc.net/problem/20310)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/20310.js)|[Blog](https://hoonni3002.tistory.com/187)|
 |[백준 11501번 - 주식](https://www.acmicpc.net/problem/11501)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11501.js)|X|
 |[백준 1138번 - 한 줄로 서기](https://www.acmicpc.net/problem/1138)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1138.js)|X|
 
@@ -63,7 +63,7 @@ My goal is to solve at least more than one problem a day.
 |:-----:|:---:|:---:|:---:|
 |[백준 1057번 - 토너먼트](https://www.acmicpc.net/problem/1057)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1057.js)|[Blog](https://hoonni3002.tistory.com/126)|
 |[백준 11502번 - 세 개의 소수 문제](https://www.acmicpc.net/problem/11502)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/11502.js)|[Blog](https://hoonni3002.tistory.com/128)|
-|[백준 7568번 - 덩치](https://www.acmicpc.net/problem/7568)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/7568.js)|X|
+|[백준 7568번 - 덩치](https://www.acmicpc.net/problem/7568)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/7568.js)|[Blog](https://hoonni3002.tistory.com/178)|
 
 
 ### 비트마스킹
@@ -109,7 +109,7 @@ My goal is to solve at least more than one problem a day.
 ### 슬라이딩 윈도우
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
-|[백준 21921번 - 블로그](https://www.acmicpc.net/problem/21921)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/21921.js)|X|
+|[백준 21921번 - 블로그](https://www.acmicpc.net/problem/21921)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/21921.js)|[Blog](https://hoonni3002.tistory.com/186)|
 
 
 ### 세그먼트 트리
@@ -122,7 +122,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 2512번 - 예산](https://www.acmicpc.net/problem/2512)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2512.js)|X|
-|[백준 19637번 - IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/19367.js)|X|
+|[백준 19637번 - IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/19367.js)|[Blog](https://hoonni3002.tistory.com/188)|
 
 
 ### 우선순위 큐
@@ -141,8 +141,8 @@ My goal is to solve at least more than one problem a day.
 ### 자료구조
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
-|[백준 25757번 - 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/25757.js)|X|
-|[백준 2164번 - 카드2](https://www.acmicpc.net/problem/2164)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2164.js)|X|
+|[백준 25757번 - 임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/25757.js)|[Blog](https://hoonni3002.tistory.com/179)|
+|[백준 2164번 - 카드2](https://www.acmicpc.net/problem/2164)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2164.js)|[Blog](https://hoonni3002.tistory.com/185)|
 |[백준 20920번 - 영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/20920.js)|X|
 
 
