@@ -50,6 +50,7 @@ My goal is to solve at least more than one problem a day.
 |문제 번호 - 제목|작성한 코드|블로그|비고|
 |:-----:|:---:|:---:|:---:|
 |[백준 17484번 - 진우의 달 여행(Small)](https://www.acmicpc.net/problem/17484)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/17484.js)|X|
+|[백준 1446번 - 지름길](https://www.acmicpc.net/problem/1446)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1446.js)|X|
 
 
 ### 두 포인터
