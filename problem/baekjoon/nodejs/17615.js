@@ -18,16 +18,41 @@ rl.on("line", function (line) {
     let N = Number(input[0]);
     let RBarr = input[1].split("");
 
-    // 빨간색 공 옮기기
-    function moveRedBall(ballColor) {
-        for (let i = N - 1; i >= 0; i--) {
-            for (let j = N - 1; j >= 0; j--) {
-                if (i < N - 1 && RBarr[i] === ballColor) {
-                    //
-                }
+    function minMoveCount(ballColor) {
+        // 왼쪽에 공 모으기
+        let left = 0;
+
+        while (left < N && RBarr[left] === ballColor) {
+            left++;
+        }
+
+        let moveLeft = 0;
+        for (let i = left; i < N; i++) {
+            if (RBarr[i] === ballColor) {
+                moveLeft++;
             }
         }
+
+        // 오른쪽에 공 모으기
+        let right = N - 1;
+
+        while (right >= 0 && RBarr[right] === ballColor) {
+            right--;
+        }
+
+        let moveRight = 0;
+        for (let i = right; i >= 0; i--) {
+            if (RBarr[i] === ballColor) {
+                moveRight++;
+            }
+        }
+
+        return Math.min(moveLeft, moveRight);
     }
+
+    let ans = Math.min(minMoveCount("R"), minMoveCount("B"));
+
+    console.log(ans);
 
     process.exit();
 });
