@@ -22,17 +22,31 @@ rl.on("line", function (line) {
         rl.close();
     }
 }).on("close", function () {
-    let sushiArr = input.slice(1).map(Number);
+    let sushi = input.slice(1).map(Number);
 
-    for (let i = 0; i < k - 1; i++) {
-        sushiArr.push(sushiArr[i]);
+    let kind = new Array(d + 1).fill(0);
+    let cnt = 0;
+
+    for (let i = 0; i < k; i++) {
+        if (kind[sushi[i]] === 0) cnt++;
+        kind[sushi[i]]++;
     }
 
-    let start = 0;
-    let end = 0;
-    while (start < N) {
-        start++;
+    let answer = kind[c] === 0 ? cnt + 1 : cnt;
+
+    for (let i = 1; i < N; i++) {
+        kind[sushi[i - 1]]--;
+        if (kind[sushi[i - 1]] === 0) cnt--;
+
+        let next = sushi[(i + k - 1) % N];
+        if (kind[next] === 0) cnt++;
+        kind[next]++;
+
+        let temp = cnt;
+        if (kind[c] === 0) temp++;
+        if (temp > answer) answer = temp;
     }
 
+    console.log(answer);
     process.exit();
 });
