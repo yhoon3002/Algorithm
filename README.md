@@ -113,6 +113,7 @@ My goal is to solve at least more than one problem a day.
 |:-----:|:---:|:---:|:---:|
 |[백준 21921번 - 블로그](https://www.acmicpc.net/problem/21921)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/21921.js)|[Blog](https://hoonni3002.tistory.com/186)|
 |[백준 2531번 - 회전 초밥](https://www.acmicpc.net/problem/2531)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/2531.js)|X|
+|[백준 1522번 - 문자열 교환](https://www.acmicpc.net/problem/1522)|[Code (Node.js)](https://github.com/yhoon3002/Algorithm/blob/main/problem/baekjoon/nodejs/1522.js)|X|
 
 
 ### 세그먼트 트리
